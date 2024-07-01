@@ -9,7 +9,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -22,7 +22,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -35,7 +35,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -48,7 +48,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -61,7 +61,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -74,7 +74,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -87,7 +87,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -100,7 +100,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -113,7 +113,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
@@ -126,7 +126,7 @@ export const productList : IProduct[] = [
         description: " As luxury brands car, South Korea",
         imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
         price: "50000",
-        colors: ["#FF0032","#25633b","#FF6#31"],
+        colors: ["#FF0032","#25633b","#FF6331"],
         category:{
             name:"Cars",
             imageURL:"https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3321/",
